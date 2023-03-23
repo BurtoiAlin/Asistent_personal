@@ -1,0 +1,16 @@
+Impins la piept, 12, 5
+Impins inclinat, 10, 5
+Flotari, 15, 6
+Pull-over cu gantera, 14, 5
+Tractiuni , 12, 4
+Deadlift, 4, 3
+Flexii Biceps, 12, 4
+Extensii Triceps 10, 5
+Flexiuni brate lateralm 16, 5
+Crunch-uri, 15, 5
+Scandura, 30, 3
+Ridicari de picioare, 14, 4
+Bridge, 20, 5
+Abdomene, 20, 4
+Fandari, 20, 4
+Genoflexiuni, 20, 5

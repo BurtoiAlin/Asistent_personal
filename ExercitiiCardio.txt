@@ -1,0 +1,6 @@
+Alergare, 20
+Bicicleta, 60
+Stepper, 15
+Coarda, 10
+Elliptical, 20
+Sah, 15

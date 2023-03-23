@@ -1,0 +1,9 @@
+Burtoi, Alin, alin19, parola, 20, 95, 190, true
+Botezatu, Eugen, Slash, parolaSlash, 21, 71, 173, true
+Popescu, Ioana, nuVreau, parolanuVreau, 17, 50, 160, false
+Caprioru, Valentina, vale, parolaVale, 51, 60, 165, false
+Simion, Ion, Simi, parolaSimi, 63, 182, 80, true
+Papuc, Ioana, Ralu, parolaRalu, 20, 55.0, 163, false
+Baciu, Sebastian, sebi, parolaSebi, 23, 56.0, 123, true
+Antonaru, Vlad, vladutz, parola, 12, 45.0, 145, false
+Burtoi, Sorin, sorin.burtoi, sorin.burtoi, 25, 263.0, 90, true

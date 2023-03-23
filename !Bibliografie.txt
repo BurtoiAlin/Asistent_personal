@@ -1,0 +1,12 @@
+https://www.geeksforgeeks.org/javafx-button-with-examples/
+https://www.youtube.com/watch?v=jEXxaPQ_fQo
+https://stackoverflow.com/questions/1022880/accessing-a-variable-from-another-class
+https://stackoverflow.com/questions/36936186/how-to-get-string-from-jtextfield-and-save-it-in-variable/36936390#:~:text=To%20get%20a%20string%20from,JTextField%20into%20the%20var%20variable.
+https://www.geeksforgeeks.org/how-to-convert-a-string-value-to-byte-value-in-java-with-examples/
+https://stackoverflow.com/questions/47352224/java-jframe-get-input-and-write-to-file
+https://stackoverflow.com/questions/11071211/convert-jtextfield-input-into-an-integer#:~:text=try%20this%3A,parseInt(text)%3B
+https://stackoverflow.com/questions/5285364/access-to-java-swing-textfield-from-other-class
+https://www.dreamincode.net/forums/topic/174002-user-input-string-saved-to-file/
+https://stackoverflow.com/questions/6941321/how-to-create-custom-listeners-in-java
+https://stackoverflow.com/questions/1234912/how-to-programmatically-close-a-jframe
+https://stackoverflow.com/questions/52391585/java-get-specific-string-from-file
